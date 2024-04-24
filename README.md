@@ -1,4 +1,4 @@
-Installed NVM
+Installed NVM for WINDOWS
 
 This is the Node Version Manager.
 It manages the current version of Node and npm that's running on your computer
